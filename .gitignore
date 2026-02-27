@@ -1,0 +1,11 @@
+# Never commit real credentials
+.env
+env/
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
